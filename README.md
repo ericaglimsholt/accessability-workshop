@@ -15,9 +15,9 @@ Now you are going to navigate only by using Voice over.
 ### Navigation
 I want you to do this fellow things.
 
-- Find "products on the page"
-- Find "type to our support"
-- Find "buy a iPhone XS"
+- Navigate through our products
+- Talk to our support
+- Add iPhone XS to you cart, then delete it from the cart
 
 ### Evaluate 
 What was good? What was bad?
