@@ -1,1 +1,23 @@
-# accessability-workshop
+# Accessability workshop
+We have went through "what", "why" and "how" about web accessability on the web. Now it's time for you to try it by yourself.
+
+## Todo
+
+### Installation
+If you are on a Mac you can simply go to Settings > Accessability > VoiceOver > Enable. If you are on a PC, and it doesn't support VoiceOver as a native setting you can download the [NVA software](https://www.nvaccess.org/).
+
+### Go to a partner portal
+Ex https://macforum.smartrestaurang.com/
+
+### Turn down your brightness
+Now you are going to navigate only by using Voice over.
+
+### Navigation
+I want you to do this fellow things.
+
+- Find "products on the page"
+- Find "type to our support"
+- Find "buy a iPhone XS"
+
+### Evaluate 
+What was good? What was bad?
